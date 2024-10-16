@@ -1,4 +1,4 @@
 
-# golang
+# Learning Go
 
-Go lang lessons
+Go lang video lessons codes
